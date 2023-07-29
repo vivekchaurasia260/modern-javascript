@@ -11,5 +11,3 @@ d
 wtr
 wrt
 rwy
-eatet
-ett
